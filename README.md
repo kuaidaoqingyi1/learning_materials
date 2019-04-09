@@ -1,7 +1,4 @@
 # java 学习资料
-
-程序猿提高篇。
-PDF的质量都很高，建议打印出来看 环装 或者胶装
 Java 程序员眼中的 Linux - v1.0
 Axure RP 指南 - v1.1.pdf
 Docker —— 从入门到实践 - v1.0
