@@ -1,2 +1,5 @@
  octotree :GitHub code tree on steroids
+ 
  GitCodeTree: 基于 Octotree 的[码云](http://gitee.com)文件树插件
+ 
+ fehelper:FE助手：JSON格式化、JSON比对、二维码生成与解码、信息编解码、代码压缩&amp;美化、页面取色、Markdown与HTML、网页截屏、编码设置、正则、时间转换、网页性能检测、Ajax调试、密码生成器、便签笔记、chrome插件下载等
